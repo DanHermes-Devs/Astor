@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NS Product Rating for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-19 20:41+0000\n"
+"PO-Revision-Date: 2020-02-19 20:41+0000\n"
+"Last-Translator: admin <armando@wearetrafika.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: ns_product_rating_woocommerce.plugin.php:259
+msgid "Premium Version"
+msgstr ""
+
+#. Name of the plugin
+msgid "NS Product Rating for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add rating to your woocommerce site"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ns-product-rating-for-woocommerce/"
+msgstr ""
+
+#. Author of the plugin
+msgid "NsThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://nsthemes.com"
+msgstr ""

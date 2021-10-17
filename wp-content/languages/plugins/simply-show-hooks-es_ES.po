@@ -1,0 +1,54 @@
+# Translation of Plugins - Simply Show Hooks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Simply Show Hooks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-31 07:25:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Simply Show Hooks - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.calyxagency.com/?utm_medium=plugins%20page%20view%20details&utm_campaign=free%20plugin%20upsell&utm_source=send%20emails#plugins"
+msgstr "http://www.calyxagency.com/?utm_medium=plugins%20page%20view%20details&utm_campaign=free%20plugin%20upsell&utm_source=send%20emails#plugins"
+
+#. Author of the plugin/theme
+msgid "Stuart O'Brien, cxThemes"
+msgstr "Stuart O'Brien, cxThemes"
+
+#: index.php:217
+msgid "Stop Showing Hooks"
+msgstr "Dejar de mostrar ganchos"
+
+#: index.php:172
+msgid "Show Action & Filter Hooks"
+msgstr "Mostrar ganchos de acción y filtros"
+
+#: index.php:166
+msgid "Stop Showing Action & Filter Hooks"
+msgstr "Dejar de mostrar ganchos de acción y filtros"
+
+#: index.php:137
+msgid "Stop Showing Action Hooks"
+msgstr "Dejar de mostrar ganchos de acción"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.calyxagency.com/#plugins"
+msgstr "http://www.calyxagency.com/#plugins"
+
+#. #-#-#-#-#  tmp-simply-show-hooks.pot (Simply Show Hooks 1.2.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: index.php:149
+msgid "Simply Show Hooks"
+msgstr "Simply Show Hooks"
+
+#: index.php:143
+msgid "Show Action Hooks"
+msgstr "Mostrar ganchos de acción"
+
+#. Description of the plugin/theme
+msgid "Simply Show Hooks helps theme or plugin developers to quickly see where all the action and filter hooks are on any WordPress page."
+msgstr "Simply Show Hooks ayuda a los desarrolladores de temas y plugins a visualizar de manera rápida donde están todos los ganchos de acción y filtros en cualquier página WordPress."

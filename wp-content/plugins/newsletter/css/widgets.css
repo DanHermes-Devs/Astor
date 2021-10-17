@@ -1,0 +1,186 @@
+/* 
+Widgets are blocks used within rows and columns (bootstrap like) and identified by the
+class "tnp-widget"
+*/
+
+.tnp-widget {
+    width: 100%;
+    box-shadow: 0 2px 2px rgba(0,0,0,.1);
+    background: #fff;
+    min-height: 320px;
+    color: #000;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.tnp-height-full {
+    height: 500px!important;
+}
+
+#tnp-body .tnp-widget p {
+    color: #000;
+    margin-left: 15px;
+}
+
+/* Widget title */
+.tnp-widget h3 {
+    font-family: "Circular Std", sans-serif;
+    letter-spacing: 0.05rem;
+    background-color: #2980B9;
+    color: #fff!important;
+    margin: 15px 0px;
+    padding: 9px;
+    border: 0;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* Buttons on widgets top bar */
+#tnp-body .tnp-widget h3 a,
+#tnp-body .tnp-widget h3 a:visited,
+#tnp-body .tnp-widget h3 a:hover {
+    color: #fff;
+}
+
+.tnp-widget h3.red {
+    background-color: darkred;
+}
+
+.tnp-widget h3.gray {
+    background-color: darkgray;
+}
+
+.tnp-widget.tnp-inactive {
+    color: #999!important;
+    background-color: #ddd!important;
+}
+
+.tnp-widget.tnp-inactive h3 {
+    background-color: #999;
+    color: #ccc!important;
+}
+
+/* Widget title button */
+.tnp-widget h3 a {
+    float: right;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 2px 8px;
+    background-color: #26C281;
+    border-radius: 2px;
+    font-weight: 300;
+    text-transform: capitalize;
+    font-size: 0.8rem;
+}
+
+/* Widget title button hover */
+.tnp-widget h3 a:hover {
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    background-color: #2ECC71;
+}
+
+.tnp-widget .inside li {
+    font-size: 12px;
+    margin: 10px;
+}
+
+.tnp-widget .inside ul {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.tnp-widget .tnp-note {
+    color: #999;
+    font-size: 12px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 0 10px;
+    position: absolute;
+    margin: 0 auto;
+    bottom: 10px;
+}
+
+
+/* Widgets with a placeholder image */
+
+.tnp-widget .tnp-placeholder {
+    padding: 10px;
+    text-align: center;
+}
+
+.tnp-widget .tnp-placeholder img {
+    max-width: 100%
+}
+
+
+/* Widgets with two numbers (primary and secondary)*/
+
+.tnp-widget.tnp-number {
+    text-align: center;
+    min-height: 0!important;
+    height: 250px;
+}
+
+.tnp-widget .tnp-value {
+    font-size: 45px;
+    margin-top: 20px;
+}
+
+.tnp-widget .tnp-value-2 {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+
+/* Icons and colors inside widgets */
+
+.tnp-icon {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.tnp-widget .tnp-icon i {
+    font-size: 40px;
+}
+
+.tnp-widget .tnp-blue {
+    color: #2980b9;
+}
+
+.tnp-widget .tnp-green {
+    color: #62cb31;
+}
+
+.tnp-widget .tnp-orange {
+    color: #ea6557;
+}
+
+.tnp-widget .tnp-red {
+    color: #dd3333;
+}
+
+.tnp-widget .tnp-gray {
+    color: #999;
+}
+
+
+/* Widefat tables inside a widget */
+
+#tnp-body .tnp-widget table.widefat {
+    margin: 10px 15px;
+    width: auto;
+}
+
+#tnp-body .tnp-widget.tnp-table table.widefat thead {
+    background-color: #fff!important;
+}
+
+#tnp-body .tnp-widget.tnp-table table.widefat thead th {
+    font-weight: bold;
+    background-color: #fff!important;
+    color: #000!important;
+}

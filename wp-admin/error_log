@@ -1,0 +1,70 @@
+[11-Feb-2020 19:06:34 UTC] PHP Warning:  include_once(/home/digout/public_html/astor.digitaltryout.com/wp-content/plugins/wp-easy-mode/wp-easy-mode.php): failed to open stream: No such file or directory in /home/digout/public_html/astor.digitaltryout.com/wp-settings.php on line 360
+[11-Feb-2020 19:06:34 UTC] PHP Warning:  include_once(): Failed opening '/home/digout/public_html/astor.digitaltryout.com/wp-content/plugins/wp-easy-mode/wp-easy-mode.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/astor.digitaltryout.com/wp-settings.php on line 360
+[11-Feb-2020 19:06:34 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:35 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[11-Feb-2020 19:06:36 UTC] PHP Warning:  strpos(): Empty needle in /home/digout/public_html/astor.digitaltryout.com/wp-includes/plugin.php on line 687
+[13-Feb-2020 22:27:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[13-Feb-2020 22:41:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[13-Feb-2020 22:42:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 18:52:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:06:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:10:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:11:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:11:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:14:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:17:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:18:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:20:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/digout/public_html/astor.digitaltryout.com/wp-includes/class-wp-hook.php on line 288
+[17-Feb-2020 19:52:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 35
+[17-Feb-2020 19:52:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 35
+[17-Feb-2020 19:52:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 35
+[17-Feb-2020 19:52:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 35
+[17-Feb-2020 19:53:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 35
+[19-Feb-2020 00:55:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/digout/public_html/astor.digitaltryout.com/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 2
+[19-Feb-2020 00:55:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/digout/public_html/astor.digitaltryout.com/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 2
+[19-Feb-2020 19:45:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:45:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:45:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:45:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:46:02 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:46:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:46:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:47:02 UTC] PHP Parse error:  syntax error, unexpected ')', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 67
+[19-Feb-2020 19:48:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/digout/public_html/astor.digitaltryout.com/wp-content/themes/understrap-master/functions.php on line 71
+[19-Feb-2020 20:44:58 UTC] [Loco.error] "Translation set not known in NS Product Rating for WooCommerce" in src/admin/bundle/BaseController.php:69

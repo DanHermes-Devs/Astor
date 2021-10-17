@@ -1,0 +1,213 @@
+# Translation of Plugins - WooCommerce Cart - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Cart - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-23 16:05:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Cart - Stable (latest release)\n"
+
+#: public/partials/xoo-wsc-content.php:143
+msgid "Qty:"
+msgstr "Cantidad:"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:105
+msgid "Container Height"
+msgstr "Altura del contenedor"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:96
+msgid "Open From"
+msgstr "Abrir desde"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:193
+msgid "On Cart & Checkout Page"
+msgstr "En la página de carrito y de pago"
+
+#: admin/settings/class-xoo-wsc-advanced-settings.php:76
+msgid "Trigger Class"
+msgstr "Clase activadora"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:153
+msgid "Cotinue Button URL"
+msgstr "URL del botón seguir comprando"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:103
+msgid "Reset Cart Form"
+msgstr "Restablecer el formulario del carrito"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:170
+msgid "Redirect to Cart"
+msgstr "Redirigir al carrito"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:95
+msgid "Loading Icon"
+msgstr "Icono de carga"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:209
+msgid "Hide Basket Pages"
+msgstr "Páginas sin cesta"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:201
+msgid "Basket on mobile"
+msgstr "Carrito visible en el móvil"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Cart"
+msgstr "WooCommerce Cart"
+
+#. Author URI of the plugin
+msgid "http://xootix.com/"
+msgstr "http://xootix.com/"
+
+#. Author of the plugin
+msgid "XootiX"
+msgstr "XootiX"
+
+#. Description of the plugin
+msgid "Woo Side Cart shows all the items added to cart in a side popup.The plugin is ajax based."
+msgstr "Woo Side Cart muestra todos los productos añadidos al carrito en un popup lateral. Funciona con ajax"
+
+#. Plugin URI of the plugin
+msgid "http://xootix.com"
+msgstr "http://xootix.com"
+
+#: xoo-wsc.php:95
+msgid "Side Cart WooCommerce is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "Side Cart WooCommerce está activado pero no funciona. Requiere la instalación de WooCommerce para poder funcionar."
+
+#: public/class-xoo-wsc-cart-data.php:150
+msgid "Something went wrong"
+msgstr "Algo salió mal"
+
+#: public/partials/xoo-wsc-content.php:121
+msgid "Remove"
+msgstr "Quitar"
+
+#: public/partials/xoo-wsc-footer.php:9 public/partials/xoo-wsc-content.php:31
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: public/partials/xoo-wsc-content.php:8
+msgid "Your cart is empty."
+msgstr "Tu carrito está vacío."
+
+#: admin/settings/class-xoo-wsc-style-settings.php:199
+msgid "Count Text Color"
+msgstr "Color texto total productos"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:191
+msgid "Count Background Color"
+msgstr "Color fondo total productos"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:183
+msgid "Basket Icon Size"
+msgstr "Tamaño icono cesta"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:175
+msgid "Basket Icon Color"
+msgstr "Color icono cesta"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:167
+msgid "Basket Background Color"
+msgstr "Color fondo cesta"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:159
+msgid "Basket Position"
+msgstr "Posición cesta"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:144
+msgid "Footer Buttons Margin"
+msgstr "Margen botones pié"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:129
+msgid "Product Image Width"
+msgstr "Ancho imagen producto"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:121
+msgid "Body Font Size"
+msgstr "Tamaño fuente Body"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:113
+msgid "Container Width"
+msgstr "Ancho contenedor"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:81
+msgid "Head Font Size"
+msgstr "Tamaño fuente del encabezado"
+
+#: public/partials/xoo-wsc-footer.php:13
+#: admin/settings/class-xoo-wsc-general-settings.php:401
+msgid "Continue Shopping"
+msgstr "Seguir comprando"
+
+#: public/partials/xoo-wsc-footer.php:12
+#: admin/settings/class-xoo-wsc-general-settings.php:384
+msgid "Checkout"
+msgstr "Finalizar Compra"
+
+#: public/partials/xoo-wsc-footer.php:11
+#: admin/settings/class-xoo-wsc-general-settings.php:368
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: public/partials/xoo-wsc-footer.php:10 public/partials/xoo-wsc-content.php:32
+#: admin/settings/class-xoo-wsc-general-settings.php:351
+msgid "To find out your shipping cost , Please proceed to checkout."
+msgstr "Dirígete a la página de finalizar pedido para conocer los gastos de envío."
+
+#: public/partials/xoo-wsc-content.php:9
+#: admin/settings/class-xoo-wsc-general-settings.php:332
+msgid "Your Cart"
+msgstr "Tu carrito"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:217
+msgid "Product Count"
+msgstr "Total de productos"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:185
+msgid "Enable Basket"
+msgstr "Activar cesta"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:162
+msgid "Product total"
+msgstr "Total del producto"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:144
+msgid "Continue Button Text"
+msgstr "Texto botón Seguir comprando"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:136
+msgid "Checkout Button Text"
+msgstr "Texto botón Finalizar Compra"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:128
+msgid "Cart Button Text"
+msgstr "Texto botón Carrito"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:120
+msgid "Shipping Text"
+msgstr "Texto Envío"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:87
+msgid "Ajax Add to Cart"
+msgstr "Añadir al carrito por ajax"
+
+#: admin/settings/class-xoo-wsc-advanced-settings.php:67
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:111
+msgid "Head Title"
+msgstr "Título del encabezado"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:79
+msgid "Auto Open"
+msgstr "Abrir automáticamente"
+
+#: admin/class-xoo-wsc-admin.php:87
+msgid "Woo Side Cart"
+msgstr "Woo Side Cart"

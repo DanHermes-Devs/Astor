@@ -1,0 +1,144 @@
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+
+.ns_product_rating_ul{
+    margin: 1em 0 0.5em 0 !important;
+    display: inline-block !important;
+}
+.ns_product_rating_submit_vote{
+    padding: 0.3em !important;
+}
+
+.ns-rating-woocom-fieldset {
+    border: none;
+    display: inline-block !important;
+    text-align: center;
+}
+
+.ns-rating-woocom-fieldset > input { display: none; }
+.ns-rating-woocom-fieldset > label:before {
+    margin: 5px;
+    font-size: 1.25em;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005";
+}
+
+.ns-rating-woocom-fieldset > .ns-rating-woocom-half:before {
+    content: "\f089";
+    position: absolute;
+    float: right;
+    display: inline-block !important;
+}
+
+.ns-rating-woocom-fieldset > label {
+    color: #ddd;
+    float: right;
+    display: inline-block !important;
+}
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.ns-rating-woocom-fieldset > input:checked ~ label, /* show gold star when clicked */
+.ns-rating-woocom-fieldset:not(:checked) > label:hover, /* hover current star */
+.ns-rating-woocom-fieldset:not(:checked) > label:hover ~ label { /*color: #FFD700;*/  } /* hover previous stars in list */
+
+.ns-rating-woocom-fieldset > input:checked + label:hover, /* hover current star when changing rating */
+.ns-rating-woocom-fieldset > input:checked ~ label:hover,
+.ns-rating-woocom-fieldset > label:hover ~ input:checked ~ label, /* lighten current selection */
+.ns-rating-woocom-fieldset > input:checked ~ label:hover ~ label { /*color: #FFED85;*/  }
+
+
+span.ns-rating-woocom-fieldset > input[name^=rate] {
+    display: none !important;
+}
+
+.ns-rating-woocom-feedback{
+    margin-bottom:20px !important;
+}
+
+.ns-rating-woocom-rate-info{
+    text-align: center;
+}
+
+.ns-rating-woocom-rating{
+    text-align: center;
+}
+
+.ns-rating-woocom-div-loader{
+    text-align: center;
+    padding: 0 47%;
+}
+
+.ns-rating-woocom-loading{
+    display:none !important; text-align: center;
+}
+
+.ns-rating-woocom-loading-show{
+    display:block !important; text-align: center;
+}
+
+.ns-rating-woocom-form{
+    margin: 0; padding: 0;
+}
+
+
+
+label.ns-rating-woocom-half {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+label.ns-rating-woocom-full {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+
+/* STILE PER STELLE BLOCCATE IN SHOP */
+.ns-rating-woocom-fieldset-read {
+    border: none;
+    display: inline-block !important;
+    text-align: center;
+}
+
+.ns-rating-woocom-fieldset-read > input { display: none; }
+.ns-rating-woocom-fieldset-read > label:before {
+    margin: 5px;
+    font-size: 1.25em;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005";
+}
+
+.ns-rating-woocom-fieldset-read > .ns-rating-woocom-half:before {
+    content: "\f089";
+    position: absolute;
+    float: right;
+    display: inline-block !important;
+}
+
+.ns-rating-woocom-fieldset-read > label {
+    color: #ddd;
+    float: right;
+    display: inline-block !important;
+}
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.ns-rating-woocom-fieldset-read > input:checked ~ label, /* show gold star when clicked */
+.ns-rating-woocom-fieldset-read:not(:checked)  { /*color: #FFD700;*/  } /* hover previous stars in list */
+
+.ns-rating-woocom-fieldset-read > input:checked,
+.ns-rating-woocom-fieldset-read > input:checked ~ label, /* lighten current selection */
+.ns-rating-woocom-fieldset-read > input:checked ~ label { /*color: #FFED85; */ }
+
+
+span.ns-rating-woocom-fieldset-read > input[name^=rate] {
+    display: none !important;
+}
+
+
+.related .ns-rating-woocom-post-rate {
+    display: none;
+}

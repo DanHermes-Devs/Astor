@@ -1,0 +1,250 @@
+.wcpa_form_outer{
+    margin:1em 0 2em 0;
+}
+.wcpa_form_outer label{
+    display: inline-block;
+    padding-right: 1em;
+}
+.wcpa_form_item{
+    margin:1em 0 1em 0;
+}
+
+.wcpa_form_outer{
+    margin:1em 0 2em 0;
+}
+.wcpa_form_outer label{
+    display: inline-block;
+    padding-right: 1em;
+}
+.wcpa_form_item{
+    margin:1em 0 1em 0;
+}
+.wcpa_form_outer .wcpa_form_item input[type="text"],
+.wcpa_form_outer .wcpa_form_item input[type="date"],
+.wcpa_form_outer .wcpa_form_item input[type="number"],
+.wcpa_form_outer .wcpa_form_item input[type="email"],
+.wcpa_form_outer .wcpa_form_item input[type="tel"],
+.wcpa_form_outer .wcpa_form_item input[type="datetime-local"],
+.wcpa_form_outer .wcpa_form_item input[type="file"],
+
+.wcpa_form_outer .wcpa_form_item textarea{
+    width:99%;
+    resize:none;
+    line-height: 25px;
+    padding: 5px 15px;
+    border: 1px solid #aaa;
+    background:#fff;
+    box-shadow: none;
+    outline: 0;
+}
+.wcpa_form_outer .wcpa_form_item input[type="color"],
+.wcpa_form_outer .wcpa_form_item input[type="time"]
+{
+    resize:none;
+    line-height: 25px;
+    border: 1px solid #aaa;
+    background:#fff;
+    box-shadow: none;
+    outline: 0;
+}
+.wcpa_form_outer .wcpa_form_item input[type="color"]{
+    padding: 0px;
+}
+.wcpa_form_outer .wcpa_form_item input[type="date"]{
+    padding-right: 7px;
+}
+.wcpa_form_outer .wcpa_form_item select{
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+    line-height: 25px;
+    padding: 5px 15px;
+    outline: 0;
+    border-radius: 0;
+    border: 1px solid #aaa;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #fff;
+}
+.wcpa_form_outer .wcpa_form_item .select{
+    position:relative;
+}
+.wcpa_form_outer .wcpa_form_item .select_arrow {
+    content:'';
+    display:block;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 0;
+    height: 0;
+    pointer-events: none;
+    border-style: solid;
+    border-width: 8px 5px 0 5px;
+    border-color: #aaa transparent transparent transparent;
+}
+.wcpa_form_outer .wcpa_form_item input[type="radio"]{
+    position: absolute;
+    visibility: hidden;
+}
+.wcpa_form_outer .wcpa_form_item .wcpa_radio,.wcpa_form_outer .wcpa_form_item  .wcpa_checkbox{
+    position:relative;
+}
+
+.wcpa_form_outer .wcpa_form_item .wcpa_radio label{
+    position: relative;
+    padding-left: 0px;
+    margin-left: 0px;
+    z-index: 9;
+    line-height: 25px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.wcpa_form_outer .wcpa_form_item .wcpa_radio .wcpa_check{
+    display: inline-block;
+    position: relative;
+    border: 2px solid #AAAAAA;
+    border-radius: 100%;
+    height: 15px;
+    width: 15px;
+    vertical-align: baseline;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: -2px;
+    margin-right: 5px;
+}
+
+.wcpa_form_outer .wcpa_form_item .wcpa_radio .wcpa_check::before {
+    display: block;
+    position: absolute;
+    content: '';
+    border-radius: 100%;
+    height: 7px;
+    width: 7px;
+    top: 2px;
+    left: 2px;
+    margin: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+.wcpa_form_outer .wcpa_form_item .wcpa_radio input[type="radio"]:checked + label .wcpa_check::before {
+    background: #36b97e;
+}
+
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+}
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox label{
+    position: relative;
+    padding-left: 0px;
+    margin-left: 0px;
+    z-index: 9;
+    line-height: 25px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox .wcpa_check{
+    display: inline-block;
+    position: relative;
+    border: 2px solid #AAAAAA;
+    height: 15px;
+    width: 15px;
+    vertical-align: baseline;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: -2px;
+    margin-right: 5px;
+}
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox .wcpa_check::before{
+    content: '';
+}
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox  input[type="checkbox"]:checked + label .wcpa_check{
+    border: 2px solid #36b97e;
+    background: #36b97e; 
+}
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox input[type="checkbox"]:checked +  label  .wcpa_check::before {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 1px;
+    width: 4px;
+    height: 8px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+.wcpa_form_outer .wcpa_form_item .wcpa_price{
+    line-height: 30px;
+    text-align: right;
+    display: block;
+}
+.wcpa_form_outer .wcpa_form_item .required_ast{
+    color:#ff0000;
+}
+
+.wcpa_form_outer .wcpa_form_item ::-webkit-calendar-picker-indicator { 
+    color:#aaa; 
+}
+.wcpa_form_outer .wcpa_form_item ::-webkit-calendar-picker-indicator:hover {
+    background: none;
+}
+.wc-item-meta-label{
+    vertical-align: top;
+    min-width: 30%;
+}
+.wcpa_price_summary ul{
+    list-style: none;
+    margin-left: 0;
+}
+.wcpa_price_summary {
+    background:#f9f9f9;
+}
+.wcpa_price_summary li{
+    border-top:1px solid #bdbcbc;
+    padding:8px 0px 8px 4px;
+    clear: both;
+    font-weight: bold;
+}
+.wcpa_price_summary li .price {
+    float:right;
+    text-align: right;
+}
+.woocommerce-cart-form .wcpa_img,.woocommerce-checkout-review-order .wcpa_img,.woocommerce-order-details  .wcpa_img{
+    width:100px;
+    max-width: 100%;
+}
+.woocommerce-cart-form .wcpa_icon,.woocommerce-checkout-review-order .wcpa_icon,.woocommerce-order-details .wcpa_icon{
+    width:15px;
+    max-width: 100%;
+    display: inline;
+    margin: 0 4px 0px 0;
+}
+
+
+.single-product div.product.wcpa_has_options form.cart{
+    display:block !important;/* to overide display:flex set by some themes */
+}
+
+.single-product div.product.wcpa_has_options form.cart.variations_form .woocommerce-variation-add-to-cart{
+    display:block !important; /* to overide display:flex set by some themes */
+}

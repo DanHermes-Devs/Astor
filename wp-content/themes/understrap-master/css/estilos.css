@@ -1,0 +1,149 @@
+/*=============================================
+TABLET HORIZONTAL (LG revisamos en 1024px)
+=============================================*/
+
+@media (max-width:1199px) and (min-width:992px){}
+
+/*=============================================
+TABLET VERTICAL (MD revisamos en 768px)
+=============================================*/
+
+@media (max-width:991px) and (min-width:768px){
+    .py-5.feed-social {
+        width: 100%;
+        /* margin: 0!important; */
+    }
+
+    html,body{
+        overflow-x: hidden;
+    }
+
+    section.elementor-element.elementor-element-ac758b1.elementor-section-stretched.elementor-section-height-min-height.elementor-section-items-top.elementor-section-content-middle.container-fluid.elementor-section-boxed.elementor-section-height-default.elementor-section.elementor-top-section {
+        padding: 0px 15px;
+    }
+
+    .elementor-container.elementor-column-gap-default {
+        padding: 0px 40px!important;
+        padding-bottom: 0%!important;
+    }
+}
+
+/*=============================================
+MÓVIL HORIZONTAL (SM revisamos en 576px)
+=============================================*/
+
+@media (max-width:767px) and (min-width:576px){}
+
+/*=============================================
+MOVIL VERTICAL (revisamos en 320px)
+=============================================*/
+
+@media (max-width:575px){
+
+    body {
+        overflow-x: hidden!important;
+    }
+
+    #page-wrapper {
+        padding-top: 30px!important;
+    }
+
+    .xoo-wsc-basket {
+        margin-top: 0;
+        right: 5.5%;
+        top: 5px;
+        transform: scale(.75);
+    }
+
+    .elementor-473 .elementor-element.elementor-element-ac758b1:not(.elementor-motion-effects-element-type-background), .elementor-473 .elementor-element.elementor-element-ac758b1 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-image: url(http://astor.digitaltryout.com/wp-content/uploads/2020/02/mision-bg.jpg);
+        background-position: left!important;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .elementor-element.elementor-element-b1b7c4d.elementor-column.elementor-col-66.elementor-top-column {
+        text-align: center;
+    }
+
+    #container-principal {
+        background-size: 100%!important;
+        padding: 5% 15% 15% 15%;
+        background-position: center;
+    }
+
+    .py-5.feed-social {
+        width: 100%;
+        /* margin: 0!important; */
+    }
+
+    html,body{
+        overflow-x: hidden;
+    }
+
+    .elementor-text-editor h2.section-heading {
+        font-size: 1.8rem!important;
+    }
+
+    .page-id-557 #wpsl-wrap {
+        margin-top: 50px;
+    }
+
+    #wpsl-search-wrap .wpsl-select-wrap {
+        display: flex;
+        flex-direction: column;
+    }
+
+    div#wpsl-radius,
+    div#wpsl-results {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .wpsl-search-btn-wrap {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    input#wpsl-search-btn {
+        font-weight: 400;
+        background-color: #e5502d !important;
+        border-color: #e5502d;
+        font-size: 18px;
+        font-family: 'Anton', sans-serif;
+        color: #fff !important;
+        width: auto !important;
+        height: auto !important;
+        padding: 10px 65px 10px 20px !important;
+        text-transform: uppercase;
+        background-image: url(http://astor.digitaltryout.com/wp-content/uploads/2020/02/next.svg);
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: calc(100% - 20px) center;
+        border: 0 !important;
+        transition: .35s all ease !important;
+        border-radius: .25rem !important;
+        cursor: pointer;
+    }
+
+    #wpsl-stores li {
+        text-align: center;
+    }
+
+    div#wpsl-stores {
+        display: flex;
+        justify-content: center;
+    }
+
+    #woocommerce-wrapper {
+        background-image: url(http://digitaltryout.com/astor2020v2/img/chocochips-bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 90%;
+        padding: 20% 0!important;
+    }
+
+}
+
+

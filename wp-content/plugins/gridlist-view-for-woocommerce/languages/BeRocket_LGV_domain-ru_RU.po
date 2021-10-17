@@ -1,0 +1,1021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Grid/List View\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Jan 25 2016 14:16:33 GMT+0200 (EET)\n"
+"PO-Revision-Date: Mon Jan 25 2016 15:12:59 GMT+0200 (EET)\n"
+"Last-Translator: RazyRx <djcrazysait@mail.ru>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: ru_RU"
+
+#. Name of the plugin
+msgid "WooCommerce Grid/List View"
+msgstr "WooCommerce Grid/List View"
+
+#. Description of the plugin
+msgid ""
+"Plugin for WooCommerce which add grid/list and products per page toggles to "
+"your shop"
+msgstr ""
+"Плагин для WooCommerce, который добавляет переключатели сетка/список и "
+"количества продуктов на странице"
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr "BeRocket"
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr "http://berocket.com"
+
+#: ../templates/settings.php:42
+msgid "WooCommerce Grid/List View developed by"
+msgstr "WooCommerce Grid/List View разработан"
+
+#: ../woocommerce-list-grid-view.php:453
+msgid "Grid/List View settings"
+msgstr "Настройки Grid/List View"
+
+#: ../woocommerce-list-grid-view.php:453
+msgid "Grid/List View"
+msgstr "Grid/List View"
+
+#: ../includes/functions.php:180
+msgid "em"
+msgstr "em"
+
+#: ../includes/functions.php:181 ../templates/buttons_settings.php:50 ..
+#: templates/buttons_settings.php:53 ../templates/buttons_settings.php:56 ..
+#: templates/buttons_settings.php:59
+msgid "px"
+msgstr "px"
+
+#: ../includes/functions.php:182
+msgid "%"
+msgstr "%"
+
+#: ../includes/functions.php:183
+msgid "initial"
+msgstr "изначально"
+
+#: ../includes/functions.php:184
+msgid "inherit"
+msgstr "наследовать"
+
+#: ../includes/functions.php:190 ../includes/functions.php:190 ..
+#: includes/functions.php:242 ../includes/functions.php:242 ..
+#: includes/functions.php:298 ../includes/functions.php:298 ..
+#: includes/functions.php:365 ../includes/functions.php:365 ..
+#: includes/functions.php:718 ../includes/functions.php:718
+msgid "Set default"
+msgstr "По умолчанию"
+
+#: ../includes/functions.php:270
+msgid "Shadow"
+msgstr "Тень"
+
+#: ../includes/functions.php:274
+msgid "Shadow inside buttons"
+msgstr "Тень внутри кнопок"
+
+#: ../includes/functions.php:277
+msgid "Horizontal position"
+msgstr "Горизонтальная позиция"
+
+#: ../includes/functions.php:281
+msgid "Vertical position"
+msgstr "Вертикальная позиция"
+
+#: ../includes/functions.php:285
+msgid "Smoothing radius"
+msgstr "Радиус сглаживания"
+
+#: ../includes/functions.php:289 ../templates/liststyle_settings.php:580 ..
+#: templates/liststyle_settings.php:1544 ../templates/liststyle_settings.php:
+#: 2212 ../templates/liststyle_settings.php:2423 ../templates/liststyle_settings.
+#: php:2586 ../templates/liststyle_settings.php:2796 ..
+#: templates/liststyle_settings.php:3017 ../templates/liststyle_settings.php:
+#: 3376 ../templates/liststyle_settings.php:4202 ../templates/liststyle_settings.
+#: php:4297 ../templates/liststyle_settings.php:4507
+msgid "Size"
+msgstr "Размер"
+
+#: ../includes/functions.php:293
+msgid "Color"
+msgstr "Цвет"
+
+#: ../includes/functions.php:750 ../templates/additional_product_data_advanced.
+#: php:23 ../templates/liststyle_settings.php:3750 ..
+#: templates/liststyle_settings.php:3754 ../templates/liststyle_settings.php:
+#: 3759 ../templates/liststyle_settings.php:3761 ../templates/liststyle_settings.
+#: php:3764 ../templates/liststyle_settings.php:3769 ..
+#: templates/liststyle_settings.php:3791
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: ../includes/widget.php:41
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: ../templates/product_count.php:30 ../templates/product_count_settings.php:299
+msgid "All"
+msgstr "Все"
+
+#: ../templates/javascript_settings.php:5
+msgid "Script before list or grid style set"
+msgstr "Перед установкой вида продуктов"
+
+#: ../templates/javascript_settings.php:11
+msgid "Script after list or grid style set"
+msgstr "После установки вида продуктов"
+
+#: ../templates/javascript_settings.php:17
+msgid "Script after list style set"
+msgstr "После установки вида продуктов как список"
+
+#: ../templates/javascript_settings.php:23
+msgid "Script after grid style set"
+msgstr "После установки вида продуктов как сетка"
+
+#: ../templates/javascript_settings.php:29
+msgid "Script before cookies get"
+msgstr "Перед получением куки"
+
+#: ../templates/javascript_settings.php:35
+msgid "Script after cookies get"
+msgstr "После получением куки"
+
+#: ../templates/javascript_settings.php:41
+msgid "Script before selected buttons List/Grid changed"
+msgstr "Перед изменением выбранной кнопки List/Grid"
+
+#: ../templates/javascript_settings.php:47
+msgid "Script after selected buttons List/Grid changed"
+msgstr "После изменения выбранной кнопки List/Grid"
+
+#: ../templates/javascript_settings.php:53
+msgid "Script before selected product count links changed"
+msgstr "Перед изменением выбранной ссылки количества продуктов"
+
+#: ../templates/javascript_settings.php:59
+msgid "Script after selected product count links changed"
+msgstr "После изменения выбранной ссылки количества продуктов"
+
+#: ../templates/javascript_settings.php:65
+msgid "Script before page reload on product count change"
+msgstr "Перед перезагрузкой страницы после изменения количества продуктов"
+
+#: ../templates/javascript_settings.php:71
+msgid "Script before AJAX page reload on product count change"
+msgstr "Перед AJAX перезагрузкой страницы после изменения количества продуктов"
+
+#: ../templates/javascript_settings.php:75 ../templates/javascript_settings.php:83
+msgid "Works only if WooCommerce AJAX Products Filter installed "
+msgstr "Работает только если плагин WooCommerce AJAX Products Filter установлен"
+
+#: ../templates/javascript_settings.php:79
+msgid "Script after AJAX page reload on product count change"
+msgstr "После AJAX перезагрузки страницы после изменения количества продуктов"
+
+#: ../templates/buttons_settings.php:5
+msgid "Default style"
+msgstr "Стиль по умолчанию"
+
+#: ../templates/buttons_settings.php:8
+msgid "Grid"
+msgstr "Сетка"
+
+#: ../templates/buttons_settings.php:9
+msgid "List"
+msgstr "Список"
+
+#: ../templates/buttons_settings.php:14 ../templates/liststyle_settings.php:68 ..
+#: templates/liststyle_settings.php:182 ../templates/liststyle_settings.php:242 .
+#: ./templates/liststyle_settings.php:302 ../templates/liststyle_settings.php:365
+#: ../templates/liststyle_settings.php:3844 ../templates/liststyle_settings.php:
+#: 3933 ../templates/liststyle_settings.php:3993 ../templates/liststyle_settings.
+#: php:4053 ../templates/liststyle_settings.php:4116 ..
+#: templates/liststyle_settings.php:4176 ../templates/liststyle_settings.php:4221
+msgid "Custom class"
+msgstr "Пользовательский класс"
+
+#: ../templates/buttons_settings.php:18
+msgid "If custom class seted options is not used."
+msgstr "Если пользовательский класс установлен, то настройки не используются."
+
+#: ../templates/buttons_settings.php:22 ../templates/product_count_settings.php:51
+msgid "Buttons display"
+msgstr "Отображать кнопки"
+
+#: ../templates/buttons_settings.php:24 ../templates/product_count_settings.php:55
+msgid "Above order by menu"
+msgstr "Над выпадающим списком для сортировки"
+
+#: ../templates/buttons_settings.php:26 ../templates/product_count_settings.php:58
+msgid "Under order by menu"
+msgstr "Под выпадающим списком для сортировки"
+
+#: ../templates/buttons_settings.php:28 ../templates/product_count_settings.php:61
+msgid "Above pagination"
+msgstr "Над нумерацией страниц"
+
+#: ../templates/buttons_settings.php:30 ../templates/product_count_settings.php:68
+msgid "Display grid and list buttons on shop page."
+msgstr "Отображать кнопки сетка и список на странице магазина"
+
+#: ../templates/buttons_settings.php:34 ../templates/product_count_settings.php:74
+msgid "Buttons position"
+msgstr "Позиция кнопок"
+
+#: ../templates/buttons_settings.php:37 ../templates/liststyle_settings.php:536 ..
+#: templates/product_count_settings.php:77
+msgid "Left"
+msgstr "Слева"
+
+#: ../templates/buttons_settings.php:38 ../templates/liststyle_settings.php:558 ..
+#: templates/product_count_settings.php:78
+msgid "Right"
+msgstr "Справа"
+
+#: ../templates/buttons_settings.php:41 ../templates/buttons_settings.php:61 ..
+#: templates/product_count_settings.php:81
+msgid "Buttons position on shop page."
+msgstr "Позиция кнопок на странице магазина"
+
+#: ../templates/buttons_settings.php:45
+msgid "Paddings"
+msgstr "Отступы"
+
+#: ../templates/buttons_settings.php:49
+msgid "Under buttons"
+msgstr "Под кнопками"
+
+#: ../templates/buttons_settings.php:52
+msgid "Above buttons"
+msgstr "Над кнопками"
+
+#: ../templates/buttons_settings.php:55
+msgid "Before buttons"
+msgstr "Перед кнопками"
+
+#: ../templates/buttons_settings.php:58
+msgid "After buttons"
+msgstr "После кнопок"
+
+#: ../templates/buttons_settings.php:67 ../templates/buttons_settings.php:120 ..
+#: templates/liststyle_settings.php:425 ../templates/liststyle_settings.php:468
+msgid "Presets"
+msgstr "Предустановки"
+
+#: ../templates/buttons_settings.php:125
+msgid "Button size"
+msgstr "Размер кнопки"
+
+#: ../templates/buttons_settings.php:128
+msgid "Smaller"
+msgstr "Очень маленькая"
+
+#: ../templates/buttons_settings.php:157 ../templates/liststyle_settings.php:584 .
+#: ./templates/liststyle_settings.php:1548 ../templates/liststyle_settings.php:
+#: 2245 ../templates/liststyle_settings.php:2444 ../templates/liststyle_settings.
+#: php:2607 ../templates/liststyle_settings.php:2829 ..
+#: templates/liststyle_settings.php:3038 ../templates/liststyle_settings.php:3380
+msgid "Small"
+msgstr "Маленькая"
+
+#: ../templates/buttons_settings.php:186 ../templates/buttons_settings.php:347 ..
+#: templates/buttons_settings.php:839 ../templates/liststyle_settings.php:595 ..
+#: templates/liststyle_settings.php:1565 ../templates/liststyle_settings.php:
+#: 2274 ../templates/liststyle_settings.php:2461 ../templates/liststyle_settings.
+#: php:2624 ../templates/liststyle_settings.php:2858 ..
+#: templates/liststyle_settings.php:3055 ../templates/liststyle_settings.php:3397
+msgid "Normal"
+msgstr "Обычная"
+
+#: ../templates/buttons_settings.php:215 ../templates/liststyle_settings.php:606 .
+#: ./templates/liststyle_settings.php:1582 ../templates/liststyle_settings.php:
+#: 2303 ../templates/liststyle_settings.php:2478 ../templates/liststyle_settings.
+#: php:2641 ../templates/liststyle_settings.php:2887 ..
+#: templates/liststyle_settings.php:3072 ../templates/liststyle_settings.php:3414
+msgid "Big"
+msgstr "Большая"
+
+#: ../templates/buttons_settings.php:244
+msgid "Bigger"
+msgstr "Очень большая"
+
+#: ../templates/buttons_settings.php:273
+msgid "Normal 2x height"
+msgstr "Обычная с двойной высотой"
+
+#: ../templates/buttons_settings.php:302
+msgid "Normal 2x width"
+msgstr "Обычная с двойной шириной"
+
+#: ../templates/buttons_settings.php:333 ../templates/buttons_settings.php:718 ..
+#: templates/liststyle_settings.php:1599 ../templates/liststyle_settings.php:
+#: 3431 ../templates/liststyle_settings.php:4358 ../templates/liststyle_settings.
+#: php:4502
+msgid "Rounded border corners"
+msgstr "Закругление углов"
+
+#: ../templates/buttons_settings.php:336 ../templates/liststyle_settings.php:1614
+#: ../templates/liststyle_settings.php:3446
+msgid "Square"
+msgstr "Квадратная"
+
+#: ../templates/buttons_settings.php:358 ../templates/liststyle_settings.php:1625
+#: ../templates/liststyle_settings.php:3457
+msgid "Smooth"
+msgstr "Сглаженная"
+
+#: ../templates/buttons_settings.php:369 ../templates/liststyle_settings.php:1636
+#: ../templates/liststyle_settings.php:3468
+msgid "Round"
+msgstr "Круглая"
+
+#: ../templates/buttons_settings.php:382 ../templates/liststyle_settings.php:2118
+#: ../templates/liststyle_settings.php:2359 ../templates/liststyle_settings.php:
+#: 2522 ../templates/liststyle_settings.php:2702 ../templates/liststyle_settings.
+#: php:2943
+msgid "Color theme"
+msgstr "Цветовая тема"
+
+#: ../templates/buttons_settings.php:385 ../templates/buttons_settings.php:490 ..
+#: templates/liststyle_settings.php:1698 ../templates/liststyle_settings.php:
+#: 2137 ../templates/liststyle_settings.php:2373 ../templates/liststyle_settings.
+#: php:2536 ../templates/liststyle_settings.php:2721 ..
+#: templates/liststyle_settings.php:2957 ../templates/liststyle_settings.php:3509
+msgid "White"
+msgstr "Белая"
+
+#: ../templates/buttons_settings.php:410
+msgid "Gray"
+msgstr "Серая"
+
+#: ../templates/buttons_settings.php:435 ../templates/liststyle_settings.php:1886
+#: ../templates/liststyle_settings.php:2152 ../templates/liststyle_settings.php:
+#: 2383 ../templates/liststyle_settings.php:2546 ../templates/liststyle_settings.
+#: php:2736 ../templates/liststyle_settings.php:2977 ..
+#: templates/liststyle_settings.php:3561
+msgid "Orange"
+msgstr "Оранжевая"
+
+#: ../templates/buttons_settings.php:460 ../templates/liststyle_settings.php:1792
+#: ../templates/liststyle_settings.php:2967 ../templates/liststyle_settings.php:
+#: 3535
+msgid "Black"
+msgstr "Черная"
+
+#: ../templates/buttons_settings.php:487
+msgid "Box shadow style"
+msgstr "Тень блока"
+
+#: ../templates/buttons_settings.php:520 ../templates/liststyle_settings.php:1980
+#: ../templates/liststyle_settings.php:2182 ../templates/liststyle_settings.php:
+#: 2403 ../templates/liststyle_settings.php:2566 ../templates/liststyle_settings.
+#: php:2766 ../templates/liststyle_settings.php:2997 ..
+#: templates/liststyle_settings.php:3587
+msgid "Blue"
+msgstr "Синяя"
+
+#: ../templates/buttons_settings.php:550
+msgid "Float"
+msgstr "Плавающая"
+
+#: ../templates/buttons_settings.php:580
+msgid "White gloss"
+msgstr "Белая глянцевая"
+
+#: ../templates/buttons_settings.php:610
+msgid "White metalize"
+msgstr "Белая металическая"
+
+#: ../templates/buttons_settings.php:640
+msgid "Black gloss"
+msgstr "Черная глянцевая"
+
+#: ../templates/buttons_settings.php:688 ../templates/product_count_settings.php:97
+msgid "Buttons style"
+msgstr "Стиль кнопок"
+
+#: ../templates/buttons_settings.php:693 ../templates/product_count_settings.php:
+#: 102
+msgid "Button width"
+msgstr "Ширина кнопок"
+
+#: ../templates/buttons_settings.php:698 ../templates/product_count_settings.php:
+#: 107
+msgid "Button height"
+msgstr "Высота кнопок"
+
+#: ../templates/buttons_settings.php:703 ../templates/liststyle_settings.php:105 .
+#: ./templates/liststyle_settings.php:158 ../templates/liststyle_settings.php:218
+#: ../templates/liststyle_settings.php:278 ../templates/liststyle_settings.php:
+#: 313 ../templates/liststyle_settings.php:341 ../templates/liststyle_settings.
+#: php:401 ../templates/liststyle_settings.php:3881 ..
+#: templates/liststyle_settings.php:3909 ../templates/liststyle_settings.php:
+#: 3969 ../templates/liststyle_settings.php:4029 ../templates/liststyle_settings.
+#: php:4064 ../templates/liststyle_settings.php:4092 ..
+#: templates/liststyle_settings.php:4152 ../templates/liststyle_settings.php:
+#: 4348 ../templates/liststyle_settings.php:4492 ..
+#: templates/product_count_settings.php:112
+msgid "Text size"
+msgstr "Размер текста"
+
+#: ../templates/buttons_settings.php:708 ../templates/liststyle_settings.php:110 .
+#: ./templates/liststyle_settings.php:163 ../templates/liststyle_settings.php:223
+#: ../templates/liststyle_settings.php:283 ../templates/liststyle_settings.php:
+#: 318 ../templates/liststyle_settings.php:346 ../templates/liststyle_settings.
+#: php:406 ../templates/liststyle_settings.php:3886 ..
+#: templates/liststyle_settings.php:3914 ../templates/liststyle_settings.php:
+#: 3974 ../templates/liststyle_settings.php:4034 ../templates/liststyle_settings.
+#: php:4069 ../templates/liststyle_settings.php:4097 ..
+#: templates/liststyle_settings.php:4157 ../templates/liststyle_settings.php:
+#: 4353 ../templates/liststyle_settings.php:4497 ..
+#: templates/product_count_settings.php:117
+msgid "Line height"
+msgstr "Высота линии"
+
+#: ../templates/buttons_settings.php:713 ../templates/liststyle_settings.php:115 .
+#: ./templates/liststyle_settings.php:168 ../templates/liststyle_settings.php:228
+#: ../templates/liststyle_settings.php:288 ../templates/liststyle_settings.php:
+#: 323 ../templates/liststyle_settings.php:351 ../templates/liststyle_settings.
+#: php:411 ../templates/liststyle_settings.php:3891 ..
+#: templates/liststyle_settings.php:3919 ../templates/liststyle_settings.php:
+#: 3979 ../templates/liststyle_settings.php:4039 ../templates/liststyle_settings.
+#: php:4074 ../templates/liststyle_settings.php:4102 ..
+#: templates/liststyle_settings.php:4162 ../templates/liststyle_settings.php:
+#: 4369 ../templates/liststyle_settings.php:4402 ../templates/liststyle_settings.
+#: php:4532 ../templates/product_count_settings.php:135 ..
+#: templates/product_count_settings.php:163 ../templates/product_count_settings.
+#: php:191 ../templates/product_count_settings.php:219 ..
+#: templates/product_count_settings.php:257
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: ../templates/buttons_settings.php:731 ../templates/product_count_settings.php:
+#: 130
+msgid "Normal buttons style"
+msgstr "Стиль обычной кнопки"
+
+#: ../templates/buttons_settings.php:736 ../templates/buttons_settings.php:772 ..
+#: templates/buttons_settings.php:808 ../templates/liststyle_settings.php:4374 ..
+#: templates/liststyle_settings.php:4407 ../templates/liststyle_settings.php:4537
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: ../templates/buttons_settings.php:741 ../templates/buttons_settings.php:777 ..
+#: templates/buttons_settings.php:813 ../templates/liststyle_settings.php:4379 ..
+#: templates/liststyle_settings.php:4412 ../templates/liststyle_settings.php:
+#: 4542 ../templates/product_count_settings.php:140 ..
+#: templates/product_count_settings.php:168 ../templates/product_count_settings.
+#: php:196 ../templates/product_count_settings.php:224 ..
+#: templates/product_count_settings.php:262
+msgid "Border width"
+msgstr "Ширина границы"
+
+#: ../templates/buttons_settings.php:746 ../templates/buttons_settings.php:782 ..
+#: templates/buttons_settings.php:818 ../templates/liststyle_settings.php:4384 ..
+#: templates/liststyle_settings.php:4417 ../templates/liststyle_settings.php:
+#: 4547 ../templates/product_count_settings.php:145 ..
+#: templates/product_count_settings.php:173 ../templates/product_count_settings.
+#: php:201 ../templates/product_count_settings.php:229 ..
+#: templates/product_count_settings.php:267
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: ../templates/buttons_settings.php:754 ../templates/buttons_settings.php:790 ..
+#: templates/buttons_settings.php:827
+msgid "Box shadow"
+msgstr "Тень блока"
+
+#: ../templates/buttons_settings.php:767 ../templates/product_count_settings.php:
+#: 158
+msgid "Mouse over buttons style"
+msgstr "Стиль кнопки при наведении"
+
+#: ../templates/buttons_settings.php:803 ../templates/product_count_settings.php:
+#: 186
+msgid "Selected buttons style"
+msgstr "Стиль выбранной кнопки"
+
+#: ../templates/buttons_settings.php:837 ../templates/buttons_settings.php:837 ..
+#: templates/product_count_settings.php:315 ../templates/product_count_settings.
+#: php:315
+msgid "Set all to default"
+msgstr "Установить всё по умолчанию"
+
+#: ../templates/buttons_settings.php:841
+msgid "Mouse over"
+msgstr "При наведении"
+
+#: ../templates/buttons_settings.php:843
+msgid "Selected"
+msgstr "Выбранная"
+
+#: ../templates/settings.php:9
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: ../templates/settings.php:10
+msgid "Product Count"
+msgstr "Количество продуктов"
+
+#: ../templates/settings.php:11
+msgid "List Style"
+msgstr "Стиль списка"
+
+#: ../templates/settings.php:12
+msgid "CSS"
+msgstr "CSS"
+
+#: ../templates/settings.php:13
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: ../templates/settings.php:14
+msgid "License"
+msgstr "Лицензия"
+
+#: ../templates/settings.php:39
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../templates/license_settings.php:5
+msgid "Plugin key"
+msgstr "Ключ плагина"
+
+#: ../templates/license_settings.php:9
+msgid "Key for plugin from BeRocket.com"
+msgstr "Ключ для плагина с сайта BeRocket.com"
+
+#: ../templates/liststyle_settings.php:64 ../templates/liststyle_settings.php:
+#: 2076 ../templates/liststyle_settings.php:3840
+msgid "Product name style"
+msgstr "Стиль названия продукта"
+
+#: ../templates/liststyle_settings.php:74 ../templates/liststyle_settings.php:128
+#: ../templates/liststyle_settings.php:188 ../templates/liststyle_settings.php:
+#: 248 ../templates/liststyle_settings.php:371 ../templates/liststyle_settings.
+#: php:3810 ../templates/liststyle_settings.php:3850 ..
+#: templates/liststyle_settings.php:3939 ../templates/liststyle_settings.php:
+#: 3999 ../templates/liststyle_settings.php:4122
+msgid "Padddings"
+msgstr "Отступы"
+
+#: ../templates/liststyle_settings.php:79 ../templates/liststyle_settings.php:133
+#: ../templates/liststyle_settings.php:193 ../templates/liststyle_settings.php:
+#: 253 ../templates/liststyle_settings.php:376 ../templates/liststyle_settings.
+#: php:3815 ../templates/liststyle_settings.php:3855 ..
+#: templates/liststyle_settings.php:3944 ../templates/liststyle_settings.php:
+#: 4004 ../templates/liststyle_settings.php:4127 ../templates/liststyle_settings.
+#: php:4192 ../templates/liststyle_settings.php:4277 ..
+#: templates/liststyle_settings.php:4328 ../templates/liststyle_settings.php:4472
+msgid "Padding top"
+msgstr "Отступ сверху"
+
+#: ../templates/liststyle_settings.php:84 ../templates/liststyle_settings.php:138
+#: ../templates/liststyle_settings.php:198 ../templates/liststyle_settings.php:
+#: 258 ../templates/liststyle_settings.php:381 ../templates/liststyle_settings.
+#: php:3820 ../templates/liststyle_settings.php:3860 ..
+#: templates/liststyle_settings.php:3949 ../templates/liststyle_settings.php:
+#: 4009 ../templates/liststyle_settings.php:4132 ../templates/liststyle_settings.
+#: php:4197 ../templates/liststyle_settings.php:4282 ..
+#: templates/liststyle_settings.php:4333 ../templates/liststyle_settings.php:4477
+msgid "Padding bottom"
+msgstr "Отступ снизу"
+
+#: ../templates/liststyle_settings.php:89 ../templates/liststyle_settings.php:143
+#: ../templates/liststyle_settings.php:203 ../templates/liststyle_settings.php:
+#: 263 ../templates/liststyle_settings.php:386 ../templates/liststyle_settings.
+#: php:3825 ../templates/liststyle_settings.php:3865 ..
+#: templates/liststyle_settings.php:3954 ../templates/liststyle_settings.php:
+#: 4014 ../templates/liststyle_settings.php:4137 ../templates/liststyle_settings.
+#: php:4287 ../templates/liststyle_settings.php:4338 ..
+#: templates/liststyle_settings.php:4482
+msgid "Padding left"
+msgstr "Отступ слева"
+
+#: ../templates/liststyle_settings.php:94 ../templates/liststyle_settings.php:148
+#: ../templates/liststyle_settings.php:208 ../templates/liststyle_settings.php:
+#: 268 ../templates/liststyle_settings.php:391 ../templates/liststyle_settings.
+#: php:3830 ../templates/liststyle_settings.php:3870 ..
+#: templates/liststyle_settings.php:3959 ../templates/liststyle_settings.php:
+#: 4019 ../templates/liststyle_settings.php:4142 ../templates/liststyle_settings.
+#: php:4292 ../templates/liststyle_settings.php:4343 ..
+#: templates/liststyle_settings.php:4487
+msgid "Padding right"
+msgstr "Отступ справа"
+
+#: ../templates/liststyle_settings.php:99 ../templates/liststyle_settings.php:153
+#: ../templates/liststyle_settings.php:213 ../templates/liststyle_settings.php:
+#: 273 ../templates/liststyle_settings.php:308 ../templates/liststyle_settings.
+#: php:336 ../templates/liststyle_settings.php:396 ..
+#: templates/liststyle_settings.php:3875 ../templates/liststyle_settings.php:
+#: 3904 ../templates/liststyle_settings.php:3964 ../templates/liststyle_settings.
+#: php:4024 ../templates/liststyle_settings.php:4059 ..
+#: templates/liststyle_settings.php:4087 ../templates/liststyle_settings.php:
+#: 4147 ../templates/liststyle_settings.php:4312 ../templates/liststyle_settings.
+#: php:4397
+msgid "Button style"
+msgstr "Стиль кнопки"
+
+#: ../templates/liststyle_settings.php:125 ../templates/liststyle_settings.php:3901
+msgid "Product name on mouse over style"
+msgstr "Стиль названия продукта при наведении"
+
+#: ../templates/liststyle_settings.php:178 ../templates/liststyle_settings.php:3929
+msgid "Product description style"
+msgstr "Стиль описания продукта"
+
+#: ../templates/liststyle_settings.php:238 ../templates/liststyle_settings.php:3989
+msgid "Product Category/Tag text style"
+msgstr "Стиль текста Категорий/Тегов продукта"
+
+#: ../templates/liststyle_settings.php:298 ../templates/liststyle_settings.php:4049
+msgid "Product Category/Tag link style"
+msgstr "Стиль ссылок Категорий/Тегов продукта"
+
+#: ../templates/liststyle_settings.php:333 ../templates/liststyle_settings.php:4084
+msgid "Product Category/Tag link on mouse over style"
+msgstr "Стиль текста Категорий/Тегов продукта при наведении"
+
+#: ../templates/liststyle_settings.php:361 ../templates/liststyle_settings.php:4112
+msgid "Product price style"
+msgstr "Стиль цены продукта"
+
+#: ../templates/liststyle_settings.php:421 ../templates/liststyle_settings.php:421
+msgid "Set simple to default"
+msgstr "Установить настройки для простого списка по умолчанию"
+
+#: ../templates/liststyle_settings.php:473
+msgid "Image style"
+msgstr "Стиль изображения"
+
+#: ../templates/liststyle_settings.php:476 ../templates/liststyle_settings.php:
+#: 622 ../templates/liststyle_settings.php:1603 ../templates/liststyle_settings.
+#: php:1651 ../templates/liststyle_settings.php:2079 ..
+#: templates/liststyle_settings.php:2122 ../templates/liststyle_settings.php:
+#: 2216 ../templates/liststyle_settings.php:2337 ../templates/liststyle_settings.
+#: php:2363 ../templates/liststyle_settings.php:2427 ..
+#: templates/liststyle_settings.php:2500 ../templates/liststyle_settings.php:
+#: 2526 ../templates/liststyle_settings.php:2590 ../templates/liststyle_settings.
+#: php:2663 ../templates/liststyle_settings.php:2706 ..
+#: templates/liststyle_settings.php:2800 ../templates/liststyle_settings.php:
+#: 2921 ../templates/liststyle_settings.php:2947 ../templates/liststyle_settings.
+#: php:3021 ../templates/liststyle_settings.php:3094 ..
+#: templates/liststyle_settings.php:3435 ../templates/liststyle_settings.php:3483
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../templates/liststyle_settings.php:504
+msgid "Full size"
+msgstr "Полный размер"
+
+#: ../templates/liststyle_settings.php:532 ../templates/liststyle_settings.php:
+#: 769 ../templates/liststyle_settings.php:4182 ../templates/liststyle_settings.
+#: php:4187 ../templates/liststyle_settings.php:4227 ..
+#: templates/liststyle_settings.php:4252 ../templates/liststyle_settings.php:4430
+msgid "Position"
+msgstr "Позиция"
+
+#: ../templates/liststyle_settings.php:619
+msgid "Add to cart button style"
+msgstr "Стиль кнопки Добавить в корзину"
+
+#: ../templates/liststyle_settings.php:773 ../templates/liststyle_settings.php:4235
+msgid "Before image"
+msgstr "Перед изображением"
+
+#: ../templates/liststyle_settings.php:854 ../templates/liststyle_settings.php:4236
+msgid "After image"
+msgstr "После изображения"
+
+#: ../templates/liststyle_settings.php:935 ../templates/liststyle_settings.php:4239
+msgid "After text"
+msgstr "После текста"
+
+#: ../templates/liststyle_settings.php:1022
+msgid "Inside image top"
+msgstr "Внутри изображения сверху"
+
+#: ../templates/liststyle_settings.php:1109
+msgid "Inside image bottom"
+msgstr "Внутри изображения снизу"
+
+#: ../templates/liststyle_settings.php:1196
+msgid "Inside image center"
+msgstr "Внутри изображения по центру"
+
+#: ../templates/liststyle_settings.php:1283
+msgid "Inside image top with paddings"
+msgstr "Внутри изображения сверху с отступом"
+
+#: ../templates/liststyle_settings.php:1370
+msgid "Inside image bottom with paddings"
+msgstr "Внутри изображения снизу с отступом"
+
+#: ../templates/liststyle_settings.php:1457
+msgid "Inside image center with paddings"
+msgstr "Внутри изображения по центру с отступом"
+
+#: ../templates/liststyle_settings.php:1647 ../templates/liststyle_settings.php:
+#: 3479
+msgid "Style"
+msgstr "Стиль"
+
+#: ../templates/liststyle_settings.php:1745
+msgid "White reverse"
+msgstr "Обратный белый"
+
+#: ../templates/liststyle_settings.php:1839
+msgid "Black reverse"
+msgstr "Обратный черный"
+
+#: ../templates/liststyle_settings.php:1933
+msgid "Orange reverse"
+msgstr "Обратный оранжевый"
+
+#: ../templates/liststyle_settings.php:2027
+msgid "Blue reverse"
+msgstr "Обратный синий"
+
+#: ../templates/liststyle_settings.php:2167 ../templates/liststyle_settings.php:
+#: 2393 ../templates/liststyle_settings.php:2556 ../templates/liststyle_settings.
+#: php:2751 ../templates/liststyle_settings.php:2987
+msgid "Dark orange"
+msgstr "Черный оранжевый"
+
+#: ../templates/liststyle_settings.php:2197 ../templates/liststyle_settings.php:
+#: 2413 ../templates/liststyle_settings.php:2576 ../templates/liststyle_settings.
+#: php:2781 ../templates/liststyle_settings.php:3007
+msgid "Dark blue"
+msgstr "Черный синий"
+
+#: ../templates/liststyle_settings.php:2334
+msgid "Description style"
+msgstr "Стиль описания"
+
+#: ../templates/liststyle_settings.php:2497
+msgid "Category/Tag text style"
+msgstr "Стиль текста Категорий/Тегов"
+
+#: ../templates/liststyle_settings.php:2660
+msgid "Category/Tag links style"
+msgstr "Стиль ссылок Категорий/Тегов"
+
+#: ../templates/liststyle_settings.php:2918
+msgid "Price style"
+msgstr "Стиль цены"
+
+#: ../templates/liststyle_settings.php:3091 ../templates/liststyle_settings.php:
+#: 4427
+msgid "Out of stock style"
+msgstr "Стиль Нет в наличии"
+
+#: ../templates/liststyle_settings.php:3208 ../templates/liststyle_settings.php:
+#: 4237 ../templates/liststyle_settings.php:4439
+msgid "Inside image"
+msgstr "Внутри изображения"
+
+#: ../templates/liststyle_settings.php:3283
+msgid "Inside image circle"
+msgstr "Круг внутри изображения"
+
+#: ../templates/liststyle_settings.php:3613
+msgid "Blue with border"
+msgstr "Синий с границей"
+
+#: ../templates/liststyle_settings.php:3652
+msgid "Normal style"
+msgstr "Обычный стиль"
+
+#: ../templates/liststyle_settings.php:3656 ../templates/liststyle_settings.php:
+#: 3662 ../templates/liststyle_settings.php:3665 ../templates/liststyle_settings.
+#: php:3670 ../templates/liststyle_settings.php:3692 ..
+#: templates/liststyle_settings.php:3705 ../templates/liststyle_settings.php:
+#: 3711 ../templates/liststyle_settings.php:3714 ../templates/liststyle_settings.
+#: php:3719 ../templates/liststyle_settings.php:3741
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: ../templates/liststyle_settings.php:3673 ../templates/liststyle_settings.php:
+#: 3772
+msgid "Product name"
+msgstr "Название продукта"
+
+#: ../templates/liststyle_settings.php:3677 ../templates/liststyle_settings.php:
+#: 3726 ../templates/liststyle_settings.php:3776
+msgid ""
+"Product Short Description. Product Short Description. Product Short "
+"Description. Product Short Description. Product Short Description."
+msgstr ""
+"Краткое описание продукта. Краткое описание продукта. Краткое описание "
+"продукта. Краткое описание продукта. Краткое описание продукта."
+
+#: ../templates/liststyle_settings.php:3682 ../templates/liststyle_settings.php:
+#: 3731 ../templates/liststyle_settings.php:3781
+msgid "Category:"
+msgstr "Категория: "
+
+#: ../templates/liststyle_settings.php:3683 ../templates/liststyle_settings.php:
+#: 3732 ../templates/liststyle_settings.php:3782
+msgid "Tag:"
+msgstr "Тег: "
+
+#: ../templates/liststyle_settings.php:3688 ../templates/liststyle_settings.php:
+#: 3737 ../templates/liststyle_settings.php:3787
+msgid "1.00&nbsp;$"
+msgstr "1.00&nbsp;$"
+
+#: ../templates/liststyle_settings.php:3701
+msgid "Mouse over links"
+msgstr "При наведении на ссылки"
+
+#: ../templates/liststyle_settings.php:3722
+msgid "Mouse over name"
+msgstr "Название при наведении"
+
+#: ../templates/liststyle_settings.php:3807
+msgid "Text block style"
+msgstr "Стиль блока с текстом"
+
+#: ../templates/liststyle_settings.php:4172 ../templates/liststyle_settings.php:
+#: 4394
+msgid "Product image"
+msgstr "Изображение продукта"
+
+#: ../templates/liststyle_settings.php:4207 ../templates/liststyle_settings.php:
+#: 4302 ../templates/liststyle_settings.php:4318 ../templates/liststyle_settings.
+#: php:4512
+msgid "Width"
+msgstr "Ширина"
+
+#: ../templates/liststyle_settings.php:4217
+msgid "Product add to cart button"
+msgstr "Кнопка Добавить в корзину"
+
+#: ../templates/liststyle_settings.php:4238
+msgid "Before text"
+msgstr "Перед текстом"
+
+#: ../templates/liststyle_settings.php:4257 ../templates/liststyle_settings.php:
+#: 4452
+msgid "From top (Work if position Inside image)"
+msgstr "От верха (Работает только внутри изображения)"
+
+#: ../templates/liststyle_settings.php:4262 ../templates/liststyle_settings.php:
+#: 4457
+msgid "From bottom (Work if position Inside image)"
+msgstr "От низа (Работает только внутри изображения)"
+
+#: ../templates/liststyle_settings.php:4267 ../templates/liststyle_settings.php:
+#: 4462
+msgid "From left (Work if position Inside image)"
+msgstr "Слева (Работает только внутри изображения)"
+
+#: ../templates/liststyle_settings.php:4272 ../templates/liststyle_settings.php:
+#: 4467
+msgid "From right (Work if position Inside image)"
+msgstr "Справа (Работает только внутри изображения)"
+
+#: ../templates/liststyle_settings.php:4307 ../templates/liststyle_settings.php:
+#: 4323 ../templates/liststyle_settings.php:4517
+msgid "Height"
+msgstr "Высота"
+
+#: ../templates/liststyle_settings.php:4363
+msgid "Button style normal"
+msgstr "Обычный стиль кнопки"
+
+#: ../templates/liststyle_settings.php:4438
+msgid "Instead add to cart button"
+msgstr "Вместо кнопки Добавить в корзину"
+
+#: ../templates/liststyle_settings.php:4522
+msgid "Block style"
+msgstr "Стиль блока"
+
+#: ../templates/liststyle_settings.php:4527
+msgid "Word position"
+msgstr "Позиция слов"
+
+#: ../templates/liststyle_settings.php:4557 ../templates/liststyle_settings.php:
+#: 4557
+msgid "Set advanced to default"
+msgstr "Установить настройки для продвинутого списка по умолчанию"
+
+#: ../templates/product_count_settings.php:5
+msgid "Use products count"
+msgstr "Использовать количество продуктов"
+
+#: ../templates/product_count_settings.php:11
+msgid "Custom class for buttons"
+msgstr "Пользовательский класс для кнопок"
+
+#: ../templates/product_count_settings.php:15
+msgid "If custom class seted options for styling is not used."
+msgstr "Если пользовательский класс установлен, то настройки стилей не используются"
+
+#: ../templates/product_count_settings.php:19
+msgid "Default Products Per Page"
+msgstr "Стандартное количество продуктов на странице"
+
+#: ../templates/product_count_settings.php:25
+msgid "Product count value"
+msgstr "Значения количества продуктов на странице"
+
+#: ../templates/product_count_settings.php:27
+msgid "You can use digits and \"all\"(Example:\"12,24,48,all\")"
+msgstr "Вы можете использовать числа и \"all\" (Например: \"12,24,48,all\")"
+
+#: ../templates/product_count_settings.php:31
+msgid "Spliter value"
+msgstr "Разделитель для значений"
+
+#: ../templates/product_count_settings.php:33
+msgid "Any symbols without spacing"
+msgstr "Любые символы без пробелов"
+
+#: ../templates/product_count_settings.php:37
+msgid "Text"
+msgstr "Текст"
+
+#: ../templates/product_count_settings.php:41
+msgid "Text before"
+msgstr "Текст перед"
+
+#: ../templates/product_count_settings.php:44
+msgid "Text after"
+msgstr "Текст после"
+
+#: ../templates/product_count_settings.php:56 ../templates/product_count_settings.
+#: php:59 ../templates/product_count_settings.php:62
+msgid "Under list/grid buttons"
+msgstr "Под кнопками List/Grid"
+
+#: ../templates/product_count_settings.php:64
+msgid "Before list/grid buttons"
+msgstr "Перед кнопками List/Grid"
+
+#: ../templates/product_count_settings.php:66
+msgid "After list/grid buttons"
+msgstr "После кнопок List/Grid"
+
+#: ../templates/product_count_settings.php:214
+msgid "Spliter style"
+msgstr "Стиль разделителя"
+
+#: ../templates/product_count_settings.php:234 ..
+#: templates/product_count_settings.php:272
+msgid "Padding before"
+msgstr "Отступ перед"
+
+#: ../templates/product_count_settings.php:239 ..
+#: templates/product_count_settings.php:277
+msgid "Padding after"
+msgstr "Отступ после"
+
+#: ../templates/product_count_settings.php:252
+msgid "Text style"
+msgstr "Стиль текста"
+
+#: ../templates/css_settings.php:5
+msgid "CSS styles"
+msgstr "CSS стили"
+
+#: ../templates/css_settings.php:14
+msgid "Class for buttons List/Grid."
+msgstr "Класс для кнопок List/Grid."
+
+#: ../templates/css_settings.php:16 ../templates/css_settings.php:23
+msgid "on mouse over"
+msgstr "При наведении"
+
+#: ../templates/css_settings.php:18 ../templates/css_settings.php:25
+msgid "on selected."
+msgstr "выбранная"
+
+#: ../templates/css_settings.php:21 ../templates/css_settings.php:28
+msgid "Class for products count link."
+msgstr "Класс для ссылок количества продуктов"
+
+#: ../templates/css_settings.php:30
+msgid "for text before and after products count."
+msgstr "для текста перед и после количества продуктов"

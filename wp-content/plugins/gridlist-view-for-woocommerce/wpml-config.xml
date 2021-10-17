@@ -1,0 +1,8 @@
+<wpml-config>  
+    <admin-texts>
+        <key name="br_lgv_product_count_option">
+            <key name="text_before" />
+            <key name="text_after" />
+        </key>
+    </admin-texts> 
+</wpml-config>

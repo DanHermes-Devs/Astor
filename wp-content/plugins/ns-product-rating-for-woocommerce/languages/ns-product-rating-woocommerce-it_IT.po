@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-27 13:00+0100\n"
+"PO-Revision-Date: 2019-02-27 13:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:35
+msgid "How to use"
+msgstr "Guida all’utilizzo"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:41
+msgid "Premium features"
+msgstr "Funzioni premium"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:48
+msgid "Go Premium, get more features and support"
+msgstr "Installa la versione premium, avrai più funzione e supporto"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:49
+msgid ""
+"If you upgrade your plugin you will get one year of free updates and "
+"support\n"
+"\t\t\t\tthrough our website available 24h/24h. Upgrade and you'll have the "
+"advantage\n"
+"\t\t\t\tof additional features of the premium version."
+msgstr ""
+"Sei fai l’upgrade avrai un anno di aggiornamenti gratis e supporto\n"
+"\t\t\t\tdisponibile nel nostro sito 24h/24h. Fai l’Upgrade e avrai i "
+"vantaggi\n"
+"\t\t\t\tdelle funzioni addizionali e della versione premium."
+
+#: ns-admin-options/ns_admin_option_dashboard.php:52
+msgid "Go Premium Now"
+msgstr "Ottieni la premium ora"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:61
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:8
+msgid "PREMIUM VERSION"
+msgstr "VERSIONE PREMIUM"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid "ALL FREE VERSION FEATURES and"
+msgstr "TUTTE LE FUNZIONI DELLA VERSIONE PREMIUM e"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:12
+msgid ""
+"– Display rating inside single product<br/>\n"
+"\t\t\t\t\t\t – Display rating inside shop<br/>\n"
+"\t\t\t\t\t\t – Display rating inside shop<br>\n"
+"\t\t\t\t\t\t – Display rating inside category and tag pages<br>\n"
+"\t\t\t\t\t\t – Choose rating image<br>\n"
+"\t\t\t\t\t\t – Choose color for rating image<br>\n"
+"\t\t\t\t\t\t – All vote are saved inside a tab in Plugin Option in your "
+"backend<br>\n"
+"\t\t\t\t\t\t – Reorder results page<br>"
+msgstr ""
+"– Visualizzazione rating nel singolo prodotto<br/>\n"
+"\t\t\t\t\t\t - Visualizzazione rating nel singolo prodotto<br/>\n"
+"\t\t\t\t\t\t - Visualizzazione rating nel singolo prodotto<br>\n"
+"\t\t\t\t\t\t - Visualizzazione rating nelle categorie e nelle pagine "
+"tag<br>\n"
+"\t\t\t\t\t\t – Scegli l’immagine del rating<br>\n"
+"\t\t\t\t\t\t – Scegli il suo colore<br>\n"
+"\t\t\t\t\t\t – Tutti i voti verranno salvati in una tabella nel tuo "
+"backend<br>\n"
+"\t\t\t\t\t\t – Riordina la pagina dei risultati<br>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:25
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "JOIN NS CLUB"
+msgstr "UNISCITI AL CLUB NS"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "– Instant access to all plugins and all themes"
+msgstr "-Accesso istantaneo a tutti i plugin e temi"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "– All future plugins and themes are included"
+msgstr "-Tutti i futuri plugin e temi saranno inclusi"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "– Unlimited license for all NS products"
+msgstr "-Licenze illimitate per tutti i prodotti NS"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "– Unlimited download for each products"
+msgstr "-Download illimitati per questi prodotti"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "– Super fast support"
+msgstr "-Supporto rapidissimo"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "– Regular update"
+msgstr "-Upgrade regolari"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "DISCOVER MORE"
+msgstr "SCOPRI DI PIU’"
+
+#: ns-admin-options/ns_settings_custom.php:3
+#: ns_product_rating_woocommerce.admin.php:3
+#: ns_product_rating_woocommerce.plugin.php:17
+#: ns_product_rating_woocommerce.restable.php:3
+#: ns_product_rating_woocommerce.template.php:3
+msgid "This file cannot be called directly!"
+msgstr "Questo file non può essere chiamato direttamente!"
+
+#: ns-admin-options/ns_settings_custom.php:17
+msgid "Symbol Color"
+msgstr "Colore del simbolo"
+
+#: ns-admin-options/ns_settings_custom.php:25
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: ns_product_rating_woocommerce.form.php:29
+msgid "Rated"
+msgstr "Votato"
+
+#: ns_product_rating_woocommerce.form.php:30
+msgid "out of"
+msgstr "fuori da"
+
+#: ns_product_rating_woocommerce.plugin.php:165
+msgid "Thanks for expressing your vote!"
+msgstr "Grazie per aver espresso il tuo parere!"
+
+#: ns_product_rating_woocommerce.plugin.php:236
+#, fuzzy
+#| msgid "Premium features"
+msgid "Premium Version"
+msgstr "Funzioni premium"
+
+#~ msgid ""
+#~ "- Upload your images for btt button<br/>\n"
+#~ "\t\t\t\t\t\t - Choose the button size<br/>"
+#~ msgstr ""
+#~ "- Carica le tue immagini per il “Back To Top”<br/>\n"
+#~ "- Scegli la dimensione del “Back To Top”<br/>"
+
+#~ msgid "Choose your label for back to top"
+#~ msgstr "Scegli l’etichetta per back to top"
+
+#~ msgid "You can write what you want or add "
+#~ msgstr "Puoi scrivere ciò che vuoi o aggiungere "
+
+#~ msgid "Backgound color"
+#~ msgstr "Colore di sfondo"
+
+#~ msgid "Text color"
+#~ msgstr "Colore del testo"
+
+#~ msgid "Border color"
+#~ msgstr "Colore del bordo"
+
+#~ msgid "Backgound color hover"
+#~ msgstr "Colore di sfondo hover"
+
+#~ msgid "Text color hover"
+#~ msgstr "Colore del testo hover"
+
+#~ msgid "Border color hover"
+#~ msgstr "Colore del bordo hover"
+
+#~ msgid ""
+#~ "Smoooth speed (This value sets the speed in millisecond to come back to "
+#~ "top)"
+#~ msgstr ""
+#~ "Smooth speed (questo valore setta la velocità in millisecondi per "
+#~ "ritornare all’inizio della pagina)"
+
+#~ msgid "Option page for Back to top Arrow ( by "
+#~ msgstr "Paginza delle opzioni per Back to top Arrow ( by "
+
+#~ msgid "STAY TUNED!"
+#~ msgstr "STAY TUNED!"
+
+#~ msgid "Thanks to use BTTA plugin! Submit your email to keep in touch!"
+#~ msgstr ""
+#~ "Grazie per usare il plugin BTTA! Inserisci la tua email per rimanere in "
+#~ "contatto!"
+
+#~ msgid "email address"
+#~ msgstr "indirizzo email"
+
+#~ msgid "Subscribe"
+#~ msgstr "Iscriviti"
